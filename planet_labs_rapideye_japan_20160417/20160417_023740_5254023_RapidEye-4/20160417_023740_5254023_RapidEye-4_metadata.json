@@ -1,0 +1,74 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    131.12242432441624,
+                    32.519388370638666
+                ],
+                [
+                    131.06454077331674,
+                    32.30393538990172
+                ],
+                [
+                    131.039287,
+                    32.304369
+                ],
+                [
+                    131.044161,
+                    32.52074
+                ],
+                [
+                    131.12242432441624,
+                    32.519388370638666
+                ]
+            ]
+        ],
+        "type": "Polygon"
+    },
+    "id": "20160417_023740_5254023_RapidEye-4",
+    "properties": {
+        "acquired": "2016-04-17T02:37:40.000000Z",
+        "area": 114.0,
+        "cloud_cover": {
+            "estimated": 0.0
+        },
+        "data": {
+            "products": {
+                "analytic": {
+                    "full": "https://api.planet.com/v0/scenes/rapideye/20160417_023740_5254023_RapidEye-4/full?product=analytic"
+                },
+                "visual": {
+                    "full": "https://api.planet.com/v0/scenes/rapideye/20160417_023740_5254023_RapidEye-4/full?product=visual"
+                }
+            }
+        },
+        "image_statistics": {
+            "gsd": 6.5
+        },
+        "links": {
+            "self": "https://api.planet.com/v0/scenes/rapideye/20160417_023740_5254023_RapidEye-4",
+            "thumbnail": "https://api.planet.com/v0/scenes/rapideye/20160417_023740_5254023_RapidEye-4/thumb"
+        },
+        "provider": "rapideye",
+        "published": "2016-04-17T20:04:03.222894+00:00",
+        "rapideye": {
+            "black_fill": 82.0,
+            "catalog_id": 25289032,
+            "tile_id": 5254023
+        },
+        "sat": {
+            "alt": 630.0,
+            "azimuth_angle": 99.46,
+            "id": "RapidEye-4",
+            "off_nadir": 2.95721,
+            "view_angle": -2.95721
+        },
+        "strip_id": 25289898,
+        "sun": {
+            "altitude": 66.71511,
+            "azimuth": 156.29892
+        }
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,74 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    130.793068,
+                    32.741029
+                ],
+                [
+                    131.049087,
+                    32.737104
+                ],
+                [
+                    131.044161,
+                    32.52074
+                ],
+                [
+                    130.788756,
+                    32.524633
+                ],
+                [
+                    130.793068,
+                    32.741029
+                ]
+            ]
+        ],
+        "type": "Polygon"
+    },
+    "id": "20160417_023737_5254122_RapidEye-4",
+    "properties": {
+        "acquired": "2016-04-17T02:37:37.000000Z",
+        "area": 625.0,
+        "cloud_cover": {
+            "estimated": 9.0
+        },
+        "data": {
+            "products": {
+                "analytic": {
+                    "full": "https://api.planet.com/v0/scenes/rapideye/20160417_023737_5254122_RapidEye-4/full?product=analytic"
+                },
+                "visual": {
+                    "full": "https://api.planet.com/v0/scenes/rapideye/20160417_023737_5254122_RapidEye-4/full?product=visual"
+                }
+            }
+        },
+        "image_statistics": {
+            "gsd": 6.5
+        },
+        "links": {
+            "self": "https://api.planet.com/v0/scenes/rapideye/20160417_023737_5254122_RapidEye-4",
+            "thumbnail": "https://api.planet.com/v0/scenes/rapideye/20160417_023737_5254122_RapidEye-4/thumb"
+        },
+        "provider": "rapideye",
+        "published": "2016-04-17T20:04:03.222894+00:00",
+        "rapideye": {
+            "black_fill": 0.0,
+            "catalog_id": 25289091,
+            "tile_id": 5254122
+        },
+        "sat": {
+            "alt": 630.0,
+            "azimuth_angle": 99.24,
+            "id": "RapidEye-4",
+            "off_nadir": 2.95721,
+            "view_angle": -2.95721
+        },
+        "strip_id": 25289898,
+        "sun": {
+            "altitude": 66.42414,
+            "azimuth": 155.89578
+        }
+    },
+    "type": "Feature"
+}
