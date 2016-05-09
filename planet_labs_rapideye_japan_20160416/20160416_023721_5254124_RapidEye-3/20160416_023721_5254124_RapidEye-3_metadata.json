@@ -1,0 +1,70 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    131.3206153174139,
+                    32.73235384262943
+                ],
+                [
+                    131.30333214137033,
+                    32.665432973484464
+                ],
+                [
+                    131.305054,
+                    32.732656
+                ],
+                [
+                    131.3206153174139,
+                    32.73235384262943
+                ]
+            ]
+        ],
+        "type": "Polygon"
+    },
+    "id": "20160416_023721_5254124_RapidEye-3",
+    "properties": {
+        "acquired": "2016-04-16T02:37:21.000000Z",
+        "area": 11.0,
+        "cloud_cover": {
+            "estimated": 55.0
+        },
+        "data": {
+            "products": {
+                "analytic": {
+                    "full": "https://api.planet.com/v0/scenes/rapideye/20160416_023721_5254124_RapidEye-3/full?product=analytic"
+                },
+                "visual": {
+                    "full": "https://api.planet.com/v0/scenes/rapideye/20160416_023721_5254124_RapidEye-3/full?product=visual"
+                }
+            }
+        },
+        "image_statistics": {
+            "gsd": 6.5
+        },
+        "links": {
+            "self": "https://api.planet.com/v0/scenes/rapideye/20160416_023721_5254124_RapidEye-3",
+            "thumbnail": "https://api.planet.com/v0/scenes/rapideye/20160416_023721_5254124_RapidEye-3/thumb"
+        },
+        "provider": "rapideye",
+        "published": "2016-04-16T17:42:27.017114+00:00",
+        "rapideye": {
+            "black_fill": 98.0,
+            "catalog_id": 25280987,
+            "tile_id": 5254124
+        },
+        "sat": {
+            "alt": 630.0,
+            "azimuth_angle": 279.54,
+            "id": "RapidEye-3",
+            "off_nadir": 0.12338,
+            "view_angle": 0.12338
+        },
+        "strip_id": 25281646,
+        "sun": {
+            "altitude": 66.23125,
+            "azimuth": 157.07797
+        }
+    },
+    "type": "Feature"
+}
